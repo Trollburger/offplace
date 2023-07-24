@@ -1,21 +1,23 @@
 {
-  "contact": "https://discord.gg/invite/G9q2T6kgbB",
-  "templates": [
-    {
-      "name": "Zacharie sprite",
-        "sources": [
-            "https://raw.githubusercontent.com/Trollburger/offplace/main/zacharie-sprite.png"
-        ],
-      "x": 889,
-      "y": -77
-    },
-    {
-      "name": "Judge sprite",
-        "sources": [
-            "https://raw.githubusercontent.com/Trollburger/offplace/main/judge-sprite1.png"
-        ],
-      "x": 890,
-      "y": -58
-    }
-  ]
+    "contact": "https://discord.gg/invite/G9q2T6kgbB",
+    "templates": [
+        {
+            "name": "Zacharie sprite",
+            "sources": [
+                "https://raw.githubusercontent.com/Trollburger/offplace/main/zacharie-sprite.png"
+            ],
+            "x": 2389,
+            "y": 923
+        },
+        {
+            "name": "Judge sprite",
+            "sources": [
+                "https://raw.githubusercontent.com/Trollburger/offplace/main/judge-sprite1.png"
+            ],
+            "x": 2389,
+            "y": 938
+        }
+    ],
+    "whitelist": [],
+    "blacklist": []
 }
