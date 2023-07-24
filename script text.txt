@@ -1,0 +1,8 @@
+{
+  "name": "batter portrait",
+  "url": "https://i.imgur.com/4Vo4rrf.png",
+  "x": 303,
+  "y": 143,
+  "width": 20,
+  "height": 21
+}

@@ -1,0 +1,21 @@
+{
+  "contact": "https://discord.gg/invite/G9q2T6kgbB",
+  "templates": [
+    {
+      "name": "Zacharie sprite",
+      "sources": [
+        "https://i.imgur.com/c2gvBt1.png"
+      ],
+      "x": 889,
+      "y": -77
+    },
+    {
+      "name": "Judge sprite",
+      "sources": [
+        "https://i.imgur.com/49bUdwV.png"
+      ],
+      "x": 890,
+      "y": -58
+    }
+  ]
+}
