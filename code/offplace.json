@@ -3,17 +3,17 @@
   "templates": [
     {
       "name": "Zacharie sprite",
-      "sources": [
-        "https://i.imgur.com/c2gvBt1.png"
-      ],
+        "sources": [
+            "https://raw.githubusercontent.com/Trollburger/offplace/main/zacharie-sprite.png"
+        ],
       "x": 889,
       "y": -77
     },
     {
       "name": "Judge sprite",
-      "sources": [
-        "https://i.imgur.com/49bUdwV.png"
-      ],
+        "sources": [
+            "https://raw.githubusercontent.com/Trollburger/offplace/main/judge-sprite1.png"
+        ],
       "x": 890,
       "y": -58
     }
