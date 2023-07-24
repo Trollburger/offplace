@@ -1,5 +1,5 @@
 {
-    "contact": "https://discord.gg/invite/G9q2T6kgbB",
+    "contact": "OFF/place",
     "templates": [
         {
             "name": "Zacharie sprite",
@@ -14,7 +14,7 @@
             "sources": [
                 "https://raw.githubusercontent.com/Trollburger/offplace/main/judge-sprite1.png"
             ],
-            "x": -20,
+            "x": 0,
             "y": -20
         },
         {
@@ -22,7 +22,7 @@
             "sources": [
                 "https://raw.githubusercontent.com/Trollburger/offplace/main/batter-portait.png"
             ],
-            "x": 1357,
+            "x": 1397,
             "y": 477
         }
     ],
