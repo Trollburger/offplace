@@ -18,9 +18,9 @@
             "y": -20
         },
         {
-            "name": "Batter portrait",
+            "name": "Batter portrait off",
             "sources": [
-                "https://raw.githubusercontent.com/Trollburger/offplace/main/batter-portait.png"
+                "https://raw.githubusercontent.com/Trollburger/offplace/main/batter-portait-off.png"
             ],
             "x": 1397,
             "y": 477
